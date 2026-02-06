@@ -66,6 +66,10 @@ When opening your Pull Request, please use the following details:
     
 - **Description:** `Submission of Python Fundamentals: Indexing and Slicing Activity`
 
+## 5. Submit the GitHub link to our SBD LMS
+
+Once you have pushed and PR'd your work, please open up the SBD LMS and submit your GitHub link for verification and checking.
+
 ---
 
 ## Need Help? Encountered Issues?
